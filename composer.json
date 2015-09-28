@@ -1,5 +1,5 @@
 {
-    "name": "Streamtime/filemaker-api",
+    "name": "streamtime/filemaker-api",
     "type": "library",
     "description": "FileMaker PHP API",
     "keywords": ["FileMaker", "PHP API", "CWP"],
