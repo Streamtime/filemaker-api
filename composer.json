@@ -9,6 +9,5 @@
     "autoload": {
         "classmap": ["FileMaker.php"]
     },
-    "minimum-stability": "stable",
     "require": {}
 }
