@@ -6,6 +6,9 @@
             "email": "alan@streamtime.net"
         }
     ],
+    "autoload": {
+        "classmap": ["FileMaker.php"]
+    },
     "minimum-stability": "stable",
     "require": {}
 }
